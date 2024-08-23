@@ -34,4 +34,4 @@ To start the React application, run:
     npm run dev
 ```
   
-This will start the react app
+This will start the React app. Navigate to http://localhost:3000/home/dashboard to view the dashboard.
