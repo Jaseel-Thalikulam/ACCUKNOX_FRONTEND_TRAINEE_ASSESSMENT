@@ -35,3 +35,13 @@ To start the React application, run:
 ```
   
 This will start the React app. Navigate to http://localhost:3000/home/dashboard to view the dashboard.
+
+
+## Deployment
+
+The application is deployed and accessible at:
+
+https://accuknox-nine.vercel.app/home/dashboard
+
+
+
