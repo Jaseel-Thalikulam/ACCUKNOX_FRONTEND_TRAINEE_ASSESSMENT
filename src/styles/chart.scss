@@ -1,0 +1,27 @@
+.doughnut--chart--container {
+  display: flex;
+}
+
+.doughnut--chart {
+  max-width: 150px;
+}
+
+.card-container {
+    background-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 10px 15px 25px 15px;
+    width: 450px;
+    
+
+  h5{
+    margin: 10px 10px 10px  ;
+  }
+}
+
+.doughnut--labels{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
